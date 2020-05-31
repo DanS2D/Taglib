@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\bindings\c\tag_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\bindings\c\tag_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\bindings\c\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2ABF25D4-34BC-38DF-A413-2EE7574275A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{57D12AAC-BC19-3720-9D09-0417F1056B1D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

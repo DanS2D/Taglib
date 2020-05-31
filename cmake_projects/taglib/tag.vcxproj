@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{208A892A-2D73-3D1F-A1E2-C58F8F77B00F}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>tag</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">tag.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">tag</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">tag.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">tag</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">tag.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">tag</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">tag.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">tag</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TAGLIB_STATIC;HAVE_CONFIG_H;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it;C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/taglib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1 -BC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects --check-stamp-file C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects/taglib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/taglib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1 -BC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects --check-stamp-file C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects/taglib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/taglib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1 -BC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects --check-stamp-file C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects/taglib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/taglib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1 -BC:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects --check-stamp-file C:/Users/Danny/Programming/Projects/Solar2D/Plugins/libraries/taglib-1.11.1/cmake_projects/taglib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\mpegfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\mpegproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\mpegheader.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\xingheader.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1\id3v1tag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1\id3v1genres.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2framefactory.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2synchdata.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2tag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2header.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2frame.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2footer.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2extendedheader.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\attachedpictureframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\commentsframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\eventtimingcodesframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\generalencapsulatedobjectframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\ownershipframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\popularimeterframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\privateframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\relativevolumeframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\synchronizedlyricsframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\textidentificationframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\uniquefileidentifierframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\unknownframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\unsynchronizedlyricsframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\urllinkframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\chapterframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\tableofcontentsframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\podcastframe.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\oggfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\oggpage.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\oggpageheader.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\xiphcomment.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis\vorbisfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis\vorbisproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac\oggflacfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc\mpcfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc\mpcproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apetag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apefooter.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apeitem.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apefile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apeproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tstring.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tstringlist.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tbytevector.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tbytevectorlist.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tbytevectorstream.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tiostream.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tfilestream.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tdebug.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tpropertymap.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\trefcounter.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tdebuglistener.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tzlib.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacpicture.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacmetadatablock.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacunknownmetadatablock.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack\wavpackfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack\wavpackproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex\speexfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex\speexproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio\trueaudiofile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio\trueaudioproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\rifffile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff\aifffile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff\aiffproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav\wavfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav\wavproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav\infotag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asftag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asffile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asfproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asfattribute.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asfpicture.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4file.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4atom.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4tag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4item.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4properties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4coverart.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modfilebase.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modtag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m\s3mfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m\s3mproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it\itfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it\itproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm\xmfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm\xmproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus\opusfile.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus\opusproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\tag.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\tagunion.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\fileref.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\audioproperties.cpp" />
+    <ClCompile Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\tagutils.cpp" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\tag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\fileref.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\audioproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\taglib_export.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\taglib_config.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\taglib.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tstring.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tlist.h" />
+    <None Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tlist.tcc" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tstringlist.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tbytevector.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tbytevectorlist.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tbytevectorstream.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tiostream.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tfilestream.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tmap.h" />
+    <None Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tmap.tcc" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tpropertymap.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\trefcounter.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\toolkit\tdebuglistener.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\mpegfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\mpegproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\mpegheader.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\xingheader.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1\id3v1tag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v1\id3v1genres.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2extendedheader.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2frame.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2header.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2synchdata.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2footer.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2framefactory.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\id3v2tag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\attachedpictureframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\commentsframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\eventtimingcodesframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\generalencapsulatedobjectframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\ownershipframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\popularimeterframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\privateframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\relativevolumeframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\synchronizedlyricsframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\textidentificationframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\uniquefileidentifierframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\unknownframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\unsynchronizedlyricsframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\urllinkframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\chapterframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\tableofcontentsframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpeg\id3v2\frames\podcastframe.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\oggfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\oggpage.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\oggpageheader.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\xiphcomment.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis\vorbisfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\vorbis\vorbisproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\flac\oggflacfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex\speexfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\speex\speexproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus\opusfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ogg\opus\opusproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacpicture.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\flac\flacmetadatablock.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apefile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apeproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apetag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apefooter.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\ape\apeitem.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc\mpcfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mpc\mpcproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack\wavpackfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\wavpack\wavpackproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio\trueaudiofile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\trueaudio\trueaudioproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\rifffile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff\aifffile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\aiff\aiffproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav\wavfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav\wavproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\riff\wav\infotag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asffile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asfproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asftag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asfattribute.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\asf\asfpicture.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4file.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4atom.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4tag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4item.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4properties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mp4\mp4coverart.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modfilebase.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modtag.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\mod\modproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it\itfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\it\itproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m\s3mfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\s3m\s3mproperties.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm\xmfile.h" />
+    <ClInclude Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\taglib\xm\xmproperties.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Danny\Programming\Projects\Solar2D\Plugins\libraries\taglib-1.11.1\cmake_projects\ZERO_CHECK.vcxproj">
+      <Project>{48E22755-EF60-33DD-88D4-C7A5DF3F67E8}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
