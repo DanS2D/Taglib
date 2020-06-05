@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/audioproperties.cpp \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/toolkit/tbytevector.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/toolkit/taglib.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/taglib_config.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/taglib_export.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/riff/aiff/aiffproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/audioproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/ape/apeproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/asf/asfproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/toolkit/tstring.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/flac/flacproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/mp4/mp4properties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/mpc/mpcproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/mpeg/mpegproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/mpeg/mpegheader.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/ogg/opus/opusproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/ogg/speex/speexproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/trueaudio/trueaudioproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/ogg/vorbis/vorbisproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/riff/wav/wavproperties.h \
+  /Users/danny/Programming/Projects/Solar2D/Taglib/taglib/wavpack/wavpackproperties.h

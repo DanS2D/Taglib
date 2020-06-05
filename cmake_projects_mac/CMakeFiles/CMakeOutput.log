@@ -1,0 +1,1327 @@
+The system is: Darwin - 19.3.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+
+note: Using new build system
+note: Planning build
+note: Constructing build description
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+CreateBuildDirectory /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    builtin-create-build-directory /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+
+CompileC /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+Ld /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC normal x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    /bin/sh -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+ARCHS=x86_64
+
+RegisterExecutionPolicyException /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC
+    builtin-RegisterExecutionPolicyException /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC
+note: Execution policy exception registration failed and was skipped: Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted" (in target 'CompilerIdC' from project 'CompilerIdC')
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdC/CompilerIdC"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+
+note: Using new build system
+note: Planning build
+note: Constructing build description
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+CreateBuildDirectory /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    builtin-create-build-directory /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap
+
+CompileC /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -iquote /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap -iquote /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList
+
+Ld /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX normal x86_64 (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_lto.o -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX
+
+WriteAuxiliaryFile /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    /bin/sh -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+ARCHS=x86_64
+
+RegisterExecutionPolicyException /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX
+    builtin-RegisterExecutionPolicyException /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX
+note: Execution policy exception registration failed and was skipped: Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted" (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX"
+
+The CXX compiler identification is AppleClang, found in "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/3.17.3/CompilerIdCXX/CompilerIdCXX"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_09fe3 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_09fe3 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_09fe3 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/cmTC_09fe3.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/testCCompiler.o testCCompiler.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/testCCompiler.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/testCCompiler.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/testCCompiler.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/testCCompiler.o
+
+Ld Debug/cmTC_09fe3 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/cmTC_09fe3.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/cmTC_09fe3_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/Objects-normal/x86_64/cmTC_09fe3_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_09fe3
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/cmTC_09fe3.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/cmTC_09fe3.xcent
+
+CodeSign Debug/cmTC_09fe3
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_09fe3.build/cmTC_09fe3.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_09fe3
+
+** BUILD SUCCEEDED **
+
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_21db5 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_21db5 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_21db5 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -v -Wl,-v -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.o
+Apple clang version 11.0.3 (clang-1103.0.32.59)
+Target: x86_64-apple-macos10.15
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mframe-pointer=all -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15.4 -target-cpu penryn -dwarf-column-info -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 556.6 -v -coverage-notes-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.gcno -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3 -dependency-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources-normal/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -Wno-objc-signed-char-bool-implicit-int-conversion -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fpascal-strings -fmax-type-align=16 -fdiagnostics-show-option -fdiagnostics-show-note-include-stack -fasm-blocks -serialize-diagnostic-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.o -x c /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c
+clang -cc1 version 11.0.3 (clang-1103.0.32.59) default target x86_64-apple-darwin19.3.0
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources-normal/x86_64"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources/x86_64"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+
+Ld Debug/cmTC_21db5 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o -Xlinker -no_deduplicate -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5
+Apple clang version 11.0.3 (clang-1103.0.32.59)
+Target: x86_64-apple-macos10.15
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5 -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-556.6
+BUILD 13:10:29 Apr  7 2020
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib
+Framework search paths:
+	/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/cmTC_21db5.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/cmTC_21db5.xcent
+
+CodeSign Debug/cmTC_21db5
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/cmTC_21db5.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5
+
+** BUILD SUCCEEDED **
+
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  end of search list found
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  implicit include dirs: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_21db5 -configuration Debug -hideShellScriptEnvironment && Command line invocation:]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_21db5 -configuration Debug -hideShellScriptEnvironment]
+  ignore line: []
+  ignore line: [User defaults from command line:]
+  ignore line: [    HideShellScriptEnvironment = YES]
+  ignore line: []
+  ignore line: [Prepare build]
+  ignore line: [note: Using legacy build system]
+  ignore line: [=== BUILD TARGET cmTC_21db5 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64]
+  ignore line: [write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -v -Wl -v -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.o]
+  ignore line: [Apple clang version 11.0.3 (clang-1103.0.32.59)]
+  ignore line: [Target: x86_64-apple-macos10.15]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mframe-pointer=all -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15.4 -target-cpu penryn -dwarf-column-info -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 556.6 -v -coverage-notes-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.gcno -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3 -dependency-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources-normal/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -Wno-objc-signed-char-bool-implicit-int-conversion -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fpascal-strings -fmax-type-align=16 -fdiagnostics-show-option -fdiagnostics-show-note-include-stack -fasm-blocks -serialize-diagnostic-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/CMakeCCompilerABI.o -x c /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 11.0.3 (clang-1103.0.32.59) default target x86_64-apple-darwin19.3.0]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources-normal/x86_64"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources/x86_64"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/DerivedSources"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_21db5 normal x86_64]
+  ignore line: [    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o -Xlinker -no_deduplicate -v -Wl -v -Wl -search_paths_first -Wl -headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5]
+  ignore line: [Apple clang version 11.0.3 (clang-1103.0.32.59)]
+  ignore line: [Target: x86_64-apple-macos10.15]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5 -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5 -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5 -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-platform_version] ==> ignore
+    arg [macos] ==> ignore
+    arg [10.15.0] ==> ignore
+    arg [10.15.4] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_21db5] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5.LinkFileList] ==> ignore
+    arg [-object_path_lto] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_lto.o] ==> ignore
+    arg [-no_deduplicate] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_21db5.build/Objects-normal/x86_64/cmTC_21db5_dependency_info.dat] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib]
+  Framework search paths: [;/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug] ==> [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib]
+  collapse framework dir [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug] ==> [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks]
+  implicit libs: []
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks]
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_6334c -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_6334c -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_6334c OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/cmTC_6334c.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/testCXXCompiler.o testCXXCompiler.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/testCXXCompiler.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/testCXXCompiler.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/testCXXCompiler.cxx -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/testCXXCompiler.o
+
+Ld Debug/cmTC_6334c normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/cmTC_6334c.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/cmTC_6334c_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/Objects-normal/x86_64/cmTC_6334c_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_6334c
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/cmTC_6334c.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/cmTC_6334c.xcent
+
+CodeSign Debug/cmTC_6334c
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6334c.build/cmTC_6334c.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_6334c
+
+** BUILD SUCCEEDED **
+
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_d97cf -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_d97cf -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_d97cf OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -v -Wl,-v -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o
+Apple clang version 11.0.3 (clang-1103.0.32.59)
+Target: x86_64-apple-macos10.15
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mframe-pointer=all -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15.4 -target-cpu penryn -dwarf-column-info -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 556.6 -v -coverage-notes-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.gcno -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3 -dependency-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources-normal/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -stdlib=libc++ -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -Wno-objc-signed-char-bool-implicit-int-conversion -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdeprecated-macro -fdebug-compilation-dir /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fcxx-exceptions -fexceptions -fpascal-strings -fmax-type-align=16 -fdiagnostics-show-option -fdiagnostics-show-note-include-stack -fasm-blocks -serialize-diagnostic-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.dia -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o -x c++ /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 11.0.3 (clang-1103.0.32.59) default target x86_64-apple-darwin19.3.0
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources-normal/x86_64"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources/x86_64"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources"
+ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/c++/v1"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+
+Ld Debug/cmTC_d97cf normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o -Xlinker -no_deduplicate -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf
+Apple clang version 11.0.3 (clang-1103.0.32.59)
+Target: x86_64-apple-macos10.15
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-556.6
+BUILD 13:10:29 Apr  7 2020
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib
+Framework search paths:
+	/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/cmTC_d97cf.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/cmTC_d97cf.xcent
+
+CodeSign Debug/cmTC_d97cf
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/cmTC_d97cf.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf
+
+** BUILD SUCCEEDED **
+
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  end of search list found
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  implicit include dirs: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_d97cf -configuration Debug -hideShellScriptEnvironment && Command line invocation:]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_d97cf -configuration Debug -hideShellScriptEnvironment]
+  ignore line: []
+  ignore line: [User defaults from command line:]
+  ignore line: [    HideShellScriptEnvironment = YES]
+  ignore line: []
+  ignore line: [Prepare build]
+  ignore line: [note: Using legacy build system]
+  ignore line: [=== BUILD TARGET cmTC_d97cf OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64]
+  ignore line: [write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -v -Wl -v -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o]
+  ignore line: [Apple clang version 11.0.3 (clang-1103.0.32.59)]
+  ignore line: [Target: x86_64-apple-macos10.15]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mframe-pointer=all -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15.4 -target-cpu penryn -dwarf-column-info -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 556.6 -v -coverage-notes-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.gcno -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3 -dependency-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources-normal/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources/x86_64 -I /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -stdlib=libc++ -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -Wno-objc-signed-char-bool-implicit-int-conversion -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdeprecated-macro -fdebug-compilation-dir /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fcxx-exceptions -fexceptions -fpascal-strings -fmax-type-align=16 -fdiagnostics-show-option -fdiagnostics-show-note-include-stack -fasm-blocks -serialize-diagnostic-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.dia -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o -x c++ /Applications/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang -cc1 version 11.0.3 (clang-1103.0.32.59) default target x86_64-apple-darwin19.3.0]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources-normal/x86_64"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources/x86_64"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/DerivedSources"]
+  ignore line: [ignoring nonexistent directory "/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/c++/v1"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_d97cf normal x86_64]
+  ignore line: [    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o -Xlinker -no_deduplicate -v -Wl -v -Wl -search_paths_first -Wl -headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf]
+  ignore line: [Apple clang version 11.0.3 (clang-1103.0.32.59)]
+  ignore line: [Target: x86_64-apple-macos10.15]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.4 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList -object_path_lto /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-platform_version] ==> ignore
+    arg [macos] ==> ignore
+    arg [10.15.0] ==> ignore
+    arg [10.15.4] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_d97cf] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf.LinkFileList] ==> ignore
+    arg [-object_path_lto] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_lto.o] ==> ignore
+    arg [-no_deduplicate] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d97cf.build/Objects-normal/x86_64/cmTC_d97cf_dependency_info.dat] ==> ignore
+    arg [-lc++] ==> lib [c++]
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib]
+  Framework search paths: [;/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug] ==> [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib]
+  collapse framework dir [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug] ==> [/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks]
+  implicit libs: [c++]
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks]
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_f7938 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_f7938 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_f7938 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/cmTC_f7938.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/CheckIncludeFile.o CheckIncludeFile.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/CheckIncludeFile.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/CheckIncludeFile.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CheckIncludeFile.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/CheckIncludeFile.o
+
+Ld Debug/cmTC_f7938 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/cmTC_f7938.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/cmTC_f7938_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/Objects-normal/x86_64/cmTC_f7938_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_f7938
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/cmTC_f7938.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/cmTC_f7938.xcent
+
+CodeSign Debug/cmTC_f7938
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f7938.build/cmTC_f7938.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_f7938
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_44fc2 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_44fc2 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_44fc2 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/cmTC_44fc2.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/CheckIncludeFile.o CheckIncludeFile.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/CheckIncludeFile.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/CheckIncludeFile.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CheckIncludeFile.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/CheckIncludeFile.o
+
+Ld Debug/cmTC_44fc2 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/cmTC_44fc2.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/cmTC_44fc2_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/Objects-normal/x86_64/cmTC_44fc2_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_44fc2
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/cmTC_44fc2.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/cmTC_44fc2.xcent
+
+CodeSign Debug/cmTC_44fc2
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_44fc2.build/cmTC_44fc2.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_44fc2
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_32f10 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_32f10 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_32f10 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/cmTC_32f10.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/CheckIncludeFile.o CheckIncludeFile.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/CheckIncludeFile.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/CheckIncludeFile.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CheckIncludeFile.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/CheckIncludeFile.o
+
+Ld Debug/cmTC_32f10 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/cmTC_32f10.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/cmTC_32f10_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/Objects-normal/x86_64/cmTC_32f10_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_32f10
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/cmTC_32f10.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/cmTC_32f10.xcent
+
+CodeSign Debug/cmTC_32f10
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_32f10.build/cmTC_32f10.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_32f10
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining size of short passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_70581 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_70581 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_70581 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/cmTC_70581.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/SIZEOF_SHORT.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_SHORT.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/SIZEOF_SHORT.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/SIZEOF_SHORT.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_SHORT.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/SIZEOF_SHORT.o
+
+Ld Debug/cmTC_70581 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/cmTC_70581.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/cmTC_70581_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/Objects-normal/x86_64/cmTC_70581_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_70581
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/cmTC_70581.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/cmTC_70581.xcent
+
+CodeSign Debug/cmTC_70581
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_70581.build/cmTC_70581.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_70581
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining size of int passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_05c82 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_05c82 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_05c82 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/cmTC_05c82.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/SIZEOF_INT.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_INT.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/SIZEOF_INT.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/SIZEOF_INT.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_INT.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/SIZEOF_INT.o
+
+Ld Debug/cmTC_05c82 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/cmTC_05c82.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/cmTC_05c82_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/Objects-normal/x86_64/cmTC_05c82_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_05c82
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/cmTC_05c82.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/cmTC_05c82.xcent
+
+CodeSign Debug/cmTC_05c82
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_05c82.build/cmTC_05c82.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_05c82
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_ed072 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_ed072 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_ed072 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/cmTC_ed072.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/SIZEOF_LONGLONG.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_LONGLONG.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/SIZEOF_LONGLONG.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/SIZEOF_LONGLONG.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_LONGLONG.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/SIZEOF_LONGLONG.o
+
+Ld Debug/cmTC_ed072 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/cmTC_ed072.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/cmTC_ed072_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/Objects-normal/x86_64/cmTC_ed072_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_ed072
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/cmTC_ed072.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/cmTC_ed072.xcent
+
+CodeSign Debug/cmTC_ed072
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ed072.build/cmTC_ed072.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_ed072
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining size of wchar_t passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_3442c -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_3442c -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_3442c OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/cmTC_3442c.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/SIZEOF_WCHAR_T.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_WCHAR_T.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/SIZEOF_WCHAR_T.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/SIZEOF_WCHAR_T.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_WCHAR_T.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/SIZEOF_WCHAR_T.o
+
+Ld Debug/cmTC_3442c normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/cmTC_3442c.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/cmTC_3442c_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/Objects-normal/x86_64/cmTC_3442c_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_3442c
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/cmTC_3442c.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/cmTC_3442c.xcent
+
+CodeSign Debug/cmTC_3442c
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3442c.build/cmTC_3442c.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_3442c
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining size of float passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_ad0a3 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_ad0a3 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_ad0a3 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/cmTC_ad0a3.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/SIZEOF_FLOAT.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_FLOAT.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/SIZEOF_FLOAT.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/SIZEOF_FLOAT.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_FLOAT.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/SIZEOF_FLOAT.o
+
+Ld Debug/cmTC_ad0a3 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/cmTC_ad0a3.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/cmTC_ad0a3_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/Objects-normal/x86_64/cmTC_ad0a3_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_ad0a3
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/cmTC_ad0a3.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/cmTC_ad0a3.xcent
+
+CodeSign Debug/cmTC_ad0a3
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_ad0a3.build/cmTC_ad0a3.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_ad0a3
+
+** BUILD SUCCEEDED **
+
+
+
+
+Determining size of double passed with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_8dcf1 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_8dcf1 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_8dcf1 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/cmTC_8dcf1.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/SIZEOF_DOUBLE.o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_DOUBLE.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/SIZEOF_DOUBLE.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/SIZEOF_DOUBLE.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CheckTypeSize/SIZEOF_DOUBLE.c -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/SIZEOF_DOUBLE.o
+
+Ld Debug/cmTC_8dcf1 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/cmTC_8dcf1.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/cmTC_8dcf1_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/Objects-normal/x86_64/cmTC_8dcf1_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_8dcf1
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/cmTC_8dcf1.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/cmTC_8dcf1.xcent
+
+CodeSign Debug/cmTC_8dcf1
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8dcf1.build/cmTC_8dcf1.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_8dcf1
+
+** BUILD SUCCEEDED **
+
+
+
+
+Performing C++ SOURCE FILE Test HAVE_STD_ATOMIC succeeded with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_62b6d -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_62b6d -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_62b6d OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/cmTC_62b6d.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/src.o src.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -DHAVE_STD_ATOMIC -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/src.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/src.cxx -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/src.o
+
+Ld Debug/cmTC_62b6d normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/cmTC_62b6d.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/cmTC_62b6d_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/Objects-normal/x86_64/cmTC_62b6d_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_62b6d
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/cmTC_62b6d.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/cmTC_62b6d.xcent
+
+CodeSign Debug/cmTC_62b6d
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_62b6d.build/cmTC_62b6d.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_62b6d
+
+** BUILD SUCCEEDED **
+
+
+
+Source file was:
+
+  #include <atomic>
+  int main() {
+    std::atomic<unsigned int> x;
+    x.fetch_add(1);
+    x.fetch_sub(1);
+    return 0;
+  }
+
+Performing C++ SOURCE FILE Test HAVE_GCC_BYTESWAP succeeded with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_15336 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_15336 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_15336 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/cmTC_15336.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/src.o src.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -DHAVE_GCC_BYTESWAP -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/src.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/src.cxx -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/src.o
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/src.cxx:3:7: warning: ignoring return value of function declared with const attribute [-Wunused-value]
+      __builtin_bswap16(0);
+      ^~~~~~~~~~~~~~~~~ ~
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/src.cxx:4:7: warning: ignoring return value of function declared with const attribute [-Wunused-value]
+      __builtin_bswap32(0);
+      ^~~~~~~~~~~~~~~~~ ~
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/src.cxx:5:7: warning: ignoring return value of function declared with const attribute [-Wunused-value]
+      __builtin_bswap64(0);
+      ^~~~~~~~~~~~~~~~~ ~
+3 warnings generated.
+
+Ld Debug/cmTC_15336 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/cmTC_15336.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/cmTC_15336_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/Objects-normal/x86_64/cmTC_15336_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_15336
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/cmTC_15336.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/cmTC_15336.xcent
+
+CodeSign Debug/cmTC_15336
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_15336.build/cmTC_15336.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_15336
+
+** BUILD SUCCEEDED **
+
+
+
+Source file was:
+
+    int main() {
+      __builtin_bswap16(0);
+      __builtin_bswap32(0);
+      __builtin_bswap64(0);
+      return 0;
+    }
+  
+Performing C++ SOURCE FILE Test HAVE_VSNPRINTF succeeded with the following output:
+Change Dir: /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_023a8 -configuration Debug -hideShellScriptEnvironment && Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_023a8 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+
+Prepare build
+note: Using legacy build system
+=== BUILD TARGET cmTC_023a8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64
+write-file /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/cmTC_023a8.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/src.o src.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.15 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/include -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/DerivedSources-normal/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/DerivedSources/x86_64 -I/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/DerivedSources -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -DHAVE_VSNPRINTF -MMD -MT dependencies -MF /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/src.dia -c /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/src.cxx -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/src.o
+
+Ld Debug/cmTC_023a8 normal x86_64
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.15 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -F/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug -filelist /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/cmTC_023a8.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/cmTC_023a8_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/Objects-normal/x86_64/cmTC_023a8_dependency_info.dat -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_023a8
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/cmTC_023a8.xcent
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/cmTC_023a8.xcent
+
+CodeSign Debug/cmTC_023a8
+    cd /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_023a8.build/cmTC_023a8.xcent --timestamp=none /Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/CMakeTmp/Debug/cmTC_023a8
+
+** BUILD SUCCEEDED **
+
+
+
+Source file was:
+
+  #include <cstdio>
+  #include <cstdarg>
+  int main() {
+    char buf[20];
+    va_list args;
+    vsnprintf(buf, 20, "%d", args);
+    return 0;
+  }
+

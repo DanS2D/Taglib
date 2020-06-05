@@ -1,0 +1,10 @@
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/install.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/uninstall.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/docs.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/ALL_BUILD.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/CMakeFiles/ZERO_CHECK.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/taglib/CMakeFiles/install.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/taglib/CMakeFiles/tag.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/bindings/CMakeFiles/install.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/bindings/c/CMakeFiles/install.dir
+/Users/danny/Programming/Projects/Solar2D/Taglib/cmake_projects_mac/bindings/c/CMakeFiles/tag_c.dir
